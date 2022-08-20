@@ -470,5 +470,5 @@
 }
 .cta-form input:focus,
 .cta-form select:focus{
-    outline: 5px solid rgb(0 0 0/0.2);
+    outline: 5px solid rgba(0, 0, 0, 0.2)
 }
