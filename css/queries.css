@@ -73,6 +73,9 @@
     .btn-form{
         margin-top: 1.2rem;
     }
+    .btn-mobile-nav{
+        display: block;
+    }
     .main-nav{
         background-color: rgba(255, 255, 255, 0.8);
         -webkit-backdrop-filter: blur(10px); /*for safari*/
